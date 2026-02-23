@@ -27,7 +27,7 @@ public class PalindromeCheckerApp {
             reversed = reversed + original.charAt(i);
         }
 
-        System.out.println("Is it a Palindrome? : ");
+        System.out.println("Is it a Palin-drome? : ");
 
         if (original.equals(reversed)) {
             System.out.println("true");
