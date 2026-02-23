@@ -29,7 +29,7 @@ public class PalindromeCheckerApp {
 
         System.out.println("Is it a Palin-drome? : ");
 
-        if (original.equals(reversed)) {
+        if ( original.equals(reversed)) {
             System.out.println("true");
         } else {
             System.out.println("false");
