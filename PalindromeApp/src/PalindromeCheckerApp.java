@@ -1,4 +1,4 @@
- /*
+/*
 Use Case 3: Palindrome Check Using String Reverse
 
 Description :
@@ -38,4 +38,3 @@ public class PalindromeCheckerApp {
         scanner.close();
     }
 }
-
